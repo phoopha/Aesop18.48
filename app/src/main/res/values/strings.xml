@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aesop Fables</string>
+
+    <string name="header_label">Aesop Fables</string>
+    <string name="add_button">Add</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="input_story_name">Input story name</string>
+    <string name="input_story">Input story</string>
+    <string name="create_your_user">Create your user</string>
+    <string name="create_your_password">Create your password</string>
+    <string name="register_button">Register</string>
+    <string name="ok_button">OK</string>
+</resources>

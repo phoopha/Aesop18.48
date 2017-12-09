@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">นิทานอีสป</string>
+    <string name="header_label">นิทานอีสป</string>
+    <string name="add_button">เพิ่ม</string>
+    <string name="username">ชื่อผู้ใช้</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login_button">เข้าสู่ระบบ</string>
+    <string name="register_button">ลงทะเบียน</string>
+    <string name="input_story_name">ป้อนชื่อเรื่อง</string>
+    <string name="input_story">ป้อนเนื้อเรื่อง</string>
+    <string name="create_your_user">ชื่อผู้ใช้</string>
+    <string name="create_your_password">รหัสผ่าน</string>
+    <string name="ok_button">ตกลง</string>
+</resources>
